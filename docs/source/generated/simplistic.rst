@@ -1,0 +1,23 @@
+﻿simplistic
+==========
+
+.. automodule:: simplistic
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

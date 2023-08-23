@@ -1,2 +1,2 @@
 # simplistic
-A base class for wrapping CLI commands.
+A base class for creating command line interface (cli) wrappers.
