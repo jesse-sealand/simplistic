@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: 'jesse-sealand/simplistic: Simplistic'
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Jesse C. Sealand"
+abstract: "Simplistic is a base class to make cli commands more user-friendly."
+license: MIT
+license-url: "https://github.com/jesse-sealand/simplistic/blob/main/LICENSE"
+repository-code: "https://github.com/jesse-sealand/simplistic"
+keywords:
+  - python
+  - cli
+type: software
+url: "https://github.com/jesse-sealand/simplistic"
