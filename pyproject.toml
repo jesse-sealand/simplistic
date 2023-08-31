@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "simplistic"
-version = "0.1.0-alpha"
+version = "0.1.1-alpha"
 description = "A base class for wrapping CLI commands."
 readme = "README.md"
 requires-python = ">=3.8"
