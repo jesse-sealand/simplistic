@@ -1,7 +1,8 @@
-simplistic
+Modules
 ==========
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
-   simplistic
+   trait
+   exceptions

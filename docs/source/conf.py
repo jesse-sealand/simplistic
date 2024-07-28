@@ -15,15 +15,15 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import os
 import sys
-sys.path.insert(0, '../../simplistic/')
+sys.path.insert(0, '.')
 # -- Project information -----------------------------------------------------
 
 project = 'simplistic'
-copyright = '2023, Jesse Sealand'
+copyright = '2024, Jesse Sealand'
 author = 'Jesse Sealand'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1.0-alpha'
+release = '0.2.0-alpha'
 
 
 # -- General configuration ---------------------------------------------------
