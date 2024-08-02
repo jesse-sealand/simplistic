@@ -1,12 +1,25 @@
-# simplistic
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/jesse-sealand/simplistic)
+<table>
+  <tr>
+    <td valign="center">
+      <img src="assets/logo-icon.png" height="50"/>
+    </td>
+    <td valign="center">
+      <p style="font-size:50px; "> Simplistic </p>
+    </td>
+  </tr>
+</table>
+
+***
+
+### **A base class for creating command line interface (cli) wrappers.**
+
 
 | | |
 | --- | --- |
-| Package | [![PyPI Latest Release](https://img.shields.io/pypi/v/simplistic.svg)](https://pypi.org/project/simplistic/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/simplistic)](https://pypi.org/project/simplistic/) |
-| Meta | [![PyPI - License](https://img.shields.io/pypi/l/simplistic)](https://github.com/pandas-dev/pandas/blob/main/LICENSE)|
+| Package | [![PyPI Latest Release](https://img.shields.io/pypi/v/simplistic.svg?label=PyPI)](https://pypi.org/project/simplistic/) [![Anaconda-Server Badge](https://anaconda.org/jessesealand/simplistic/badges/version.svg)](https://anaconda.org/jessesealand/simplistic)  |
+| Meta | [![PyPI - License](https://img.shields.io/pypi/l/simplistic)](https://github.com/pandas-dev/pandas/blob/main/LICENSE) ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/jesse-sealand/simplistic)|
 
-A base class for creating command line interface (cli) wrappers.
+
 
 ## What is it?
 
@@ -31,12 +44,18 @@ Here are just a few of the things that pandas does well:
 The source code is currently hosted on GitHub at:
 https://github.com/jesse-sealand/simplistic
 
-The latest released version are available at the [Python
-Package Index (PyPI)](https://pypi.org/project/simplistic) only at this time.
+The latest released version are available at
+1. [Python
+Package Index (PyPI)](https://pypi.org/project/simplistic).
 
 ```sh
-# PyPI
 pip install simplistic
+```
+
+2. [Anaconda](https://anaconda.org/jessesealand/simplistic).
+
+```sh
+conda install jessesealand::simplistic
 ```
 
 ## Dependencies
