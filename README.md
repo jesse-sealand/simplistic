@@ -1,9 +1,9 @@
-<table>
-  <tr>
-    <td valign="center">
+<table style="border: 0">
+  <tr style="border: 0">
+    <td valign="center" style="border: 0">
       <img src="assets/logo-icon.png" height="50"/>
     </td>
-    <td valign="center">
+    <td valign="center" style="border: 0">
       <p style="font-size:50px; "> Simplistic </p>
     </td>
   </tr>
